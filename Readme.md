@@ -1,12 +1,3 @@
-Lik: https://kirigaya7447.github.io/Controle_sua_saude/
+Lik: https://kirigaya7447.github.io/Metro_Sao_Paulo/
 
-
-Colocar no site a ser montado:
-
-Controle sua saúde bucal;
-
-Últimos exames que foram feitos;
-
-Próximos exames agendados ou a agendar;
-
-Notificações de datas ou alertas.
+Projeto de orientação sobre utilização do metrô de São Paulo, SP - Brasil.
