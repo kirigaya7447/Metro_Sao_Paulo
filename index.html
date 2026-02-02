@@ -1,32 +1,256 @@
+<!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="utf-8">
-		<title>Metrô em SP</title>
-		<link rel="stylesheet" href="Style/style.css">
-	</head>
-	<body>
-		<h1>Linhas disponíveis:</h1>
-		<p>Linha 1 - Azul</p>
-		<p>Linha 2 - Verde</p>
-		<p>Linha 3 - Vermelha</p>
-		<p>Linha 4 - Amarela</p>
-		<p>Linha 5 - Lilás</p>
-		<p>Linha 7 - Rubi</p>
-		<p>Linha 8 - Diamante</p>
-		<p>Linha 9 - Esmeralda</p>
-		<p>Linha 10 - Turquesa</p>
-		<p>Linha 11 - Coral</p>
-		<p>Linha 12 - Safira</p>
-		<p>Linha 13 - Jade</p>
-		<p>Linha 15 - Prata</p>
-		<p>Linha </p>
-		<p>Linha </p>
-		<p>Linha </p>
-		<p>Linha </p>
-		<p>Linha </p>
-		<p>Linha </p>
-		<p>Linha </p>
-		<p>Linha </p>
-		<p>Linha </p>
-	</body>
+
+<head>
+	<meta charset="utf-8">
+	<title>Metrô em SP</title>
+	<link rel="stylesheet" href="Style/style.css">
+</head>
+
+<body>
+	<h1>Linhas disponíveis:</h1>
+	<p id="linhaAzul">Linha 1 - Azul</p>
+	<select>
+		<option>Jabaquara-Comitê Paralímpico Brasileiro</option>
+		<option>Conceição</option>
+		<option>São Judas</option>
+		<option>Saúde-Ultrafarma</option>
+		<option>Praça da Árvore</option>
+		<option>Santa Cruz</option>
+		<option>Vila Mariana</option>
+		<option>Ana Rosa</option>
+		<option>Paraíso</option>
+		<option>Vergueiro-Sebrae</option>
+		<option>São Joaquim</option>
+		<option>Japão-Liberdade</option>
+		<option>Sé</option>
+		<option>São Bento</option>
+		<option>Luz</option>
+		<option>Tiradentes</option>
+		<option>Armênia</option>
+		<option>Portuguesa-Tietê</option>
+		<option>Carandiru</option>
+		<option>Santana</option>
+		<option>Jardim São Paulo-Ayrton Senna</option>
+		<option>Parada Inglesa</option>
+		<option>Tucuruvi</option>
+	</select>
+	<p id="linhaVerde">Linha 2 - Verde</p>
+	<select>
+		<option>Vila Prudente</option>
+		<option>Tamanduateí</option>
+		<option>Sacomã</option>
+		<option>Alto do Ipiranga</option>
+		<option>Santos-Imigrantes</option>
+		<option>Chácara Klabin</option>
+		<option>Ana Rosa</option>
+		<option>Paraíso</option>
+		<option>Brigadeiro</option>
+		<option>Trianon-Masp</option>
+		<option>Consolação</option>
+		<option>Clínicas</option>
+		<option>S. N. Sra. de Fátima-Sumaré</option>
+		<option>Vila Madalena</option>
+	</select>
+	<p id="linhaVermelha">Linha 3 - Vermelha</p>
+	<select>
+		<option>Corinthians-Itaquera</option>
+		<option>Artur Alvim</option>
+		<option>Patriarca-Vila Ré</option>
+		<option>Guilhermina-Esperança</option>
+		<option>Vila Matilde</option>
+		<option>Penha-Lojas Besni</option>
+		<option>Carrão-Assaí Atacadista</option>
+		<option>Tatuapé</option>
+		<option>Belém</option>
+		<option>Bresser-Mooca</option>
+		<option>Brás</option>
+		<option>Pedro II</option>
+		<option>Sé</option>
+		<option>Anhangabaú</option>
+		<option>República</option>
+		<option>Santa Cecília</option>
+		<option>Marechal Deodoro</option>
+		<option>Palmeiras-Barra Funda</option>
+	</select>
+	<p id="linhaAmarela">Linha 4 - Amarela</p>
+	<select>
+		<option>Luz</option>
+		<option>República</option>
+		<option>Higienópolis-Mackenzie</option>
+		<option>Paulista - Pernambucanas</option>
+		<option>Oscar Freire</option>
+		<option>Fradique Coutinho</option>
+		<option>Faria Lima</option>
+		<option>Pinheiros</option>
+		<option>Butantã</option>
+		<option>São Paulo-Morumb</option>i
+		<option>Vila Sônia - Professora Elizabeth Tenreiro</option>
+	</select>
+	<p id="linhaLilas">Linha 5 - Lilás</p>
+	<select>
+		<option>Capão Redondo</option>
+		<option>Campo Limpo</option>
+		<option>Vila das Belezas</option>
+		<option>Giovanni Gronchi</option>
+		<option>Santo Amaro</option>
+		<option>Largo Treze</option>
+		<option>Adolfo Pinheiro</option>
+		<option>Alto da Boa Vista</option>
+		<option>Borba Gato</option>
+		<option>Brooklin</option>
+		<option>Campo Belo</option>
+		<option>Eucaliptos</option>
+		<option>Moema</option>
+		<option>AACD - Servidor</option>
+		<option>Hospital São Paulo</option>
+		<option>Santa Cruz</option>
+		<option>Chácara Klabin</option>
+	</select>
+	<p id="linhaRubi">Linha 7 - Rubi</p>
+	<select>
+		<option>Jundiaí</option>
+		<option>Várzea Paulista</option>
+		<option>Campo Limpo Paulista</option>
+		<option>Botujuru</option>
+		<option>Francisco Morato</option>
+		<option>Baltazar Fidélis</option>
+		<option>Franco da Rocha</option>
+		<option>Caieiras</option>
+		<option>Perus</option>
+		<option>Vila Aurora</option>
+		<option>Jaraguá</option>
+		<option>Vila Clarice</option>
+		<option>Pirituba</option>
+		<option>Piqueri</option>
+		<option>Lapa</option>
+		<option>Água Branca</option>
+		<option>Palmeiras-Barra Funda</option>
+	</select>
+	<p id="linhaDiamante">Linha 8 - Diamante</p>
+	<select>
+		<option>Júlio Prestes</option>
+		<option>Palmeiras-Barra Funda</option>
+		<option>Lapa</option>
+		<option>Domingos De Moraes</option>
+		<option>Imperatriz Leopoldina</option>
+		<option>Presidente Altino</option>
+		<option>Osasco</option>
+		<option>Comandante Sampaio</option>
+		<option>Quitaúna</option>
+		<option>General Miguel Costa</option>
+		<option>Carapicuíba</option>
+		<option>Santa Terezinha</option>
+		<option>Antonio João</option>
+		<option>Barueri</option>
+		<option>Jardim Belval</option>
+		<option>Jardim Silveira</option>
+		<option>Jandira</option>
+		<option>Sagrado Coração</option>
+		<option>Engenheiro Cardoso</option>
+		<option>Itapevi</option>
+		<option>Santa Rita</option>
+		<option>Ambuitá</option>
+		<option>Amador Bueno</option>
+	</select>
+	<p id="linhaEsmeralda">Linha 9 - Esmeralda</p>
+	<select>
+		<option>Osasco</option>
+		<option>Presidente Altino</option>
+		<option>Ceasa</option>
+		<option>Villa Lobos-Jaguaré</option>
+		<option>Cidade Universitária</option>
+		<option>Pinheiros</option>
+		<option>Hebraica-Rebouças</option>
+		<option>Cidade Jardim</option>
+		<option>Vila Olímpia</option>
+		<option>Berrini</option>
+		<option>Morumbi</option>
+		<option>Granja Julieta</option>
+		<option>João Dias</option>
+		<option>Santo Amaro</option>
+		<option>Socorro</option>
+		<option>Jurubatuba</option>
+		<option>Autódromo</option>
+		<option>Primavera-Interlagos</option>
+		<option>Grajaú</option>
+		<option>Bruno Covas/Mendes-Vila Natal</option>
+		<option>Estação Varginha</option>
+	</select>
+	<p id="linhaTurquesa">Linha 10 - Turquesa</p>
+	<select>
+		<option>Palmeiras-Barra Funda</option>
+		<option>Luz</option>
+		<option>Brás</option>
+		<option>Juventus-Mooca</option>
+		<option>Ipiranga</option>
+		<option>Tamanduateí</option>
+		<option>São Caetano do Sul-Prefeito Walter Braido</option>
+		<option>Utinga</option>
+		<option>Prefeito Saladino</option>
+		<option>Prefeito Celso Daniel-Santo André</option>
+		<option>Capuava</option>
+		<option>Mauá</option>
+		<option>Guapituba</option>
+		<option>Ribeirão Pires-Antônio Bespalec</option>
+		<option>Rio Grande Da Serra</option>
+	</select>
+	<p id="linhaCoral">Linha 11 - Coral</p>
+	<select>
+		<option>Estudantes</option>
+		<option>Mogi Das Cruzes</option>
+		<option>Braz Cubas</option>
+		<option>Jundiapeba</option>
+		<option>Suzano</option>
+		<option>Calmon Viana</option>
+		<option>Poá</option>
+		<option>Ferraz De Vasconcelos</option>
+		<option>Antonio Gianetti Neto</option>
+		<option>Guaianases</option>
+		<option>José Bonifácio</option>
+		<option>Dom Bosco</option>
+		<option>Corinthians-Itaquera</option>
+		<option>Tatuapé</option>
+		<option>Brás</option>
+		<option>Luz</option>
+		<option>Palmeiras-Barra Funda</option>
+	</select>
+	<p id="linhaSafira">Linha 12 - Safira</p>
+	<select>
+		<option>Brás</option>
+		<option>Tatuapé</option>
+		<option>Engenheiro Goulart</option>
+		<option>USP Leste</option>
+		<option>Comendador Ermelino</option>
+		<option>São Miguel Paulista</option>
+		<option>Jardim Helena-Vila Mara</option>
+		<option>Itaim Paulista</option>
+		<option>Jardim Romano</option>
+		<option>Engenheiro Manoel Feio</option>
+		<option>Itaquaquecetuba</option>
+		<option>Aracaré</option>
+		<option>Calmon Viana</option>
+	</select>
+	<p id="linhaJade">Linha 13 - Jade</p>
+	<select>
+		<option>Engenheiro Goulart</option>
+		<option>Guarulhos-Cecap</option>
+		<option>Aeroporto-Guarulhos</option>
+	</select>
+	<p id="linhaPrata">Linha 15 - Prata</p>
+	<select>
+		<option>Vila Prudente</option>
+		<option>Oratório</option>
+		<option>São Lucas</option>
+		<option>Camilo Haddad</option>
+		<option>Vila Tolstói</option>
+		<option>Vila União</option>
+		<option>Jardim Planalto</option>
+		<option>Sapopemba</option>
+		<option>Fazenda da Juta</option>
+		<option>São Mateus</option>
+		<option>Jardim Colonial</option>
+	</select>
+</body>
+
 </html>
