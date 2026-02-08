@@ -49,3 +49,46 @@
 #linhaPrata{
     color: #7F8488;
 }
+
+#corpo{
+    align-items: center;
+    text-align: center;
+}
+
+.pula{
+    margin-top: 15px;
+    display: inline-flex;
+    width: 100%;
+}
+
+.linhas{
+    border: solid #a1a6a6;
+    border-width: 2px;
+    width: 320px;
+    height: 110px;
+    margin-right: 10%;
+    margin-left: 5%;
+    display: flexbox;
+    align-items: center;
+}
+
+.ultimasLinhas{
+    border: solid #a1a6a6;
+    border-width: 2px;
+    width: 200px;
+    height: 110px;
+    margin-right: 12%;
+    margin-left: 10%;
+    display: flexbox;
+    align-items: center;
+}
+
+.ultimaLinha{
+    display: inline-flex;
+    align-items: center;
+
+}
+
+select{
+    text-align: center;
+}
