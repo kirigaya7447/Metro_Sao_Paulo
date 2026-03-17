@@ -1,116 +1,116 @@
 /*Linhas
 Linha 1 - Azul
-    Jabaquara-Comitê Paralímpico Brasileiro
-    Conceição
-    São Judas
-    Saúde-Ultrafarma
-    Praça da Árvore
-    Santa Cruz
-    Vila Mariana
-    Ana Rosa
-    Paraíso
-    Vergueiro-Sebrae
-    São Joaquim
-    Japão-Liberdade
-    Sé
-    São Bento
-    Luz
-    Tiradentes
-    Armênia
-    Portuguesa-Tietê
-    Carandiru
-    Santana
-    Jardim São Paulo-Ayrton Senna
-    Parada Inglesa
-    Tucuruvi
+    Azul - Jabaquara-Comitê Paralímpico Brasileiro
+    Azul - Conceição
+    Azul - São Judas
+    Azul - Saúde-Ultrafarma
+    Azul - Praça da Árvore
+    Azul - Santa Cruz
+    Azul - Vila Mariana
+    Azul - Ana Rosa
+    Azul - Paraíso
+    Azul - Vergueiro-Sebrae
+    Azul - São Joaquim
+    Azul - Japão-Liberdade
+    Azul - Sé
+    Azul - São Bento
+    Azul - Luz
+    Azul - Tiradentes
+    Azul - Armênia
+    Azul - Portuguesa-Tietê
+    Azul - Carandiru
+    Azul - Santana
+    Azul - Jardim São Paulo-Ayrton Senna
+    Azul - Parada Inglesa
+    Azul - Tucuruvi
 
 
 Linha 2 - Verde
-    Vila Prudente
-    Tamanduateí
-    Sacomã
-    Alto do Ipiranga
-    Santos-Imigrantes
-    Chácara Klabin
-    Ana Rosa
-    Paraíso
-    Brigadeiro
-    Trianon-Masp
-    Consolação
-    Clínicas
-    S. N. Sra. de Fátima-Sumaré
-    Vila Madalena
+    Verde - Vila Prudente
+    Verde - Tamanduateí
+    Verde - Sacomã
+    Verde - Alto do Ipiranga
+    Verde - Santos-Imigrantes
+    Verde - Chácara Klabin
+    Verde - Ana Rosa
+    Verde - Paraíso
+    Verde - Brigadeiro
+    Verde - Trianon-Masp
+    Verde - Consolação
+    Verde - Clínicas
+    Verde - S. N. Sra. de Fátima-Sumaré
+    Verde - Vila Madalena
 
 Linha 3 - Vermelha
-    Corinthians-Itaquera
-    Artur Alvim
-    Patriarca-Vila Ré
-    Guilhermina-Esperança
-    Vila Matilde
-    Penha-Lojas Besni
-    Carrão-Assaí Atacadista
-    Tatuapé
-    Belém
-    Bresser-Mooca
-    Brás
-    Pedro II
-    Sé
-    Anhangabaú
-    República
-    Santa Cecília
-    Marechal Deodoro
-    Palmeiras-Barra Funda
+    Vermelha - Corinthians-Itaquera
+    Vermelha - Artur Alvim
+    Vermelha - Patriarca-Vila Ré
+    Vermelha - Guilhermina-Esperança
+    Vermelha - Vila Matilde
+    Vermelha - Penha-Lojas Besni
+    Vermelha - Carrão-Assaí Atacadista
+    Vermelha - Tatuapé
+    Vermelha - Belém
+    Vermelha - Bresser-Mooca
+    Vermelha - Brás
+    Vermelha - Pedro II
+    Vermelha - Sé
+    Vermelha - Anhangabaú
+    Vermelha - República
+    Vermelha - Santa Cecília
+    Vermelha - Marechal Deodoro
+    Vermelha - Palmeiras-Barra Funda
 
 Linha 4 - Amarela
-    Luz
-    República
-    Higienópolis-Mackenzie
-    Paulista - Pernambucanas
-    Oscar Freire
-    Fradique Coutinho
-    Faria Lima
-    Pinheiros
-    Butantã
-    São Paulo-Morumbi
-    Vila Sônia - Professora Elizabeth Tenreiro
+    Amarela - Luz
+    Amarela - República
+    Amarela - Higienópolis-Mackenzie
+    Amarela - Paulista - Pernambucanas
+    Amarela - Oscar Freire
+    Amarela - Fradique Coutinho
+    Amarela - Faria Lima
+    Amarela - Pinheiros
+    Amarela - Butantã
+    Amarela - São Paulo-Morumbi
+    Amarela - Vila Sônia - Professora Elizabeth Tenreiro
 
 Linha 5 - Lilás
-    Capão Redondo
-    Campo Limpo
-    Vila das Belezas
-    Giovanni Gronchi
-    Santo Amaro
-    Largo Treze
-    Adolfo Pinheiro
-    Alto da Boa Vista
-    Borba Gato
-    Brooklin
-    Campo Belo
-    Eucaliptos
-    Moema
-    AACD - Servidor
-    Hospital São Paulo
-    Santa Cruz
-    Chácara Klabin
+    Lilás - Capão Redondo
+    Lilás - Campo Limpo
+    Lilás - Vila das Belezas
+    Lilás - Giovanni Gronchi
+    Lilás - Santo Amaro
+    Lilás - Largo Treze
+    Lilás - Adolfo Pinheiro
+    Lilás - Alto da Boa Vista
+    Lilás - Borba Gato
+    Lilás - Brooklin
+    Lilás - Campo Belo
+    Lilás - Eucaliptos
+    Lilás - Moema
+    Lilás - AACD - Servidor
+    Lilás - Hospital São Paulo
+    Lilás - Santa Cruz
+    Lilás - Chácara Klabin
 
 Linha 7 - Rubi
-    Jundiaí
-    Várzea Paulista
-    Campo Limpo Paulista
-    Botujuru
-    Francisco Morato
-    Baltazar Fidélis
-    Franco da Rocha
-    Caieiras
-    Perus
-    Vila Aurora
-    Jaraguá
-    Vila Clarice
-    Pirituba
-    Piqueri
-    Lapa
-    Água Branca
-    Palmeiras-Barra Funda
+    Rubi - Jundiaí
+    Rubi - Várzea Paulista
+    Rubi - Campo Limpo Paulista
+    Rubi - Botujuru
+    Rubi - Francisco Morato
+    Rubi - Baltazar Fidélis
+    Rubi - Franco da Rocha
+    Rubi - Caieiras
+    Rubi - Perus
+    Rubi - Vila Aurora
+    Rubi - Jaraguá
+    Rubi - Vila Clarice
+    Rubi - Pirituba
+    Rubi - Piqueri
+    Rubi - Lapa
+    Rubi - Água Branca
+    Rubi - Palmeiras-Barra Funda
 
 Linha 8 - Diamante
     Júlio Prestes
@@ -161,71 +161,71 @@ Bruno Covas/Mendes-Vila Natal
 Estação Varginha
 
 Linha 10 - Turquesa
-Palmeiras-Barra Funda
-Luz
-Brás
-Juventus-Mooca
-Ipiranga
-Tamanduateí
-São Caetano do Sul-Prefeito Walter Braido
-Utinga
-Prefeito Saladino
-Prefeito Celso Daniel-Santo André
-Capuava
-Mauá
-Guapituba
-Ribeirão Pires-Antônio Bespalec
-Rio Grande Da Serra
+Turquesa - Palmeiras-Barra Funda
+Turquesa - Luz
+Turquesa - Brás
+Turquesa - Juventus-Mooca
+Turquesa - Ipiranga
+Turquesa - Tamanduateí
+Turquesa - São Caetano do Sul-Prefeito Walter Braido
+Turquesa - Utinga
+Turquesa - Prefeito Saladino
+Turquesa - Prefeito Celso Daniel-Santo André
+Turquesa - Capuava
+Turquesa - Mauá
+Turquesa - Guapituba
+Turquesa - Ribeirão Pires-Antônio Bespalec
+Turquesa - Rio Grande Da Serra
 
 Linha 11 - Coral
-Estudantes
-Mogi Das Cruzes
-Braz Cubas
-Jundiapeba
-Suzano
-Calmon Viana
-Poá
-Ferraz De Vasconcelos
-Antonio Gianetti Neto
-Guaianases
-José Bonifácio
-Dom Bosco
-Corinthians-Itaquera
-Tatuapé
-Brás
-Luz
-Palmeiras-Barra Funda
+Coral - Estudantes
+Coral - Mogi Das Cruzes
+Coral - Braz Cubas
+Coral - Jundiapeba
+Coral - Suzano
+Coral - Calmon Viana
+Coral - Poá
+Coral - Ferraz De Vasconcelos
+Coral - Antonio Gianetti Neto
+Coral - Guaianases
+Coral - José Bonifácio
+Coral - Dom Bosco
+Coral - Corinthians-Itaquera
+Coral - Tatuapé
+Coral - Brás
+Coral - Luz
+Coral - Palmeiras-Barra Funda
 
 Linha 12 - Safira
-Brás
-Tatuapé
-Engenheiro Goulart
-USP Leste
-Comendador Ermelino
-São Miguel Paulista
-Jardim Helena-Vila Mara
-Itaim Paulista
-Jardim Romano
-Engenheiro Manoel Feio
-Itaquaquecetuba
-Aracaré
-Calmon Viana
+Safira - Brás
+Safira - Tatuapé
+Safira - Engenheiro Goulart
+Safira - USP Leste
+Safira - Comendador Ermelino
+Safira - São Miguel Paulista
+Safira - Jardim Helena-Vila Mara
+Safira - Itaim Paulista
+Safira - Jardim Romano
+Safira - Engenheiro Manoel Feio
+Safira - Itaquaquecetuba
+Safira - Aracaré
+Safira - Calmon Viana
 
 Linha 13 - Jade
-Engenheiro Goulart
-Guarulhos-Cecap
-Aeroporto-Guarulhos
+Jade - Engenheiro Goulart
+Jade - Guarulhos-Cecap
+Jade - Aeroporto-Guarulhos
 
 Linha 15 - Prata
-    Vila Prudente
-    Oratório
-    São Lucas
-    Camilo Haddad
-    Vila Tolstói
-    Vila União
-    Jardim Planalto 
-    Sapopemba
-    Fazenda da Juta
-    São Mateus
-    Jardim Colonial
+    Prata - Vila Prudente
+    Prata - Oratório
+    Prata - São Lucas
+    Prata - Camilo Haddad
+    Prata - Vila Tolstói
+    Prata - Vila União
+    Prata - Jardim Planalto 
+    Prata - Sapopemba
+    Prata - Fazenda da Juta
+    Prata - São Mateus
+    Prata - Jardim Colonial
 */
