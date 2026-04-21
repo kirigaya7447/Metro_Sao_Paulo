@@ -229,65 +229,29 @@ var linhaPrata = [
 ];
 
 /*Linhas
-
+Linha 1 - Azul
 
 Linha 2 - Verde
-    
 
 Linha 3 - Vermelha
-    
 
 Linha 4 - Amarela
-    
 
 Linha 5 - Lilás
-    
 
 Linha 7 - Rubi
-    
 
 Linha 8 - Diamante
-    
 
 Linha 9 - Esmeralda
-    
 
 Linha 10 - Turquesa
-    
 
 Linha 11 - Coral
-    
 
 Linha 12 - Safira
-    Safira - Brás
-    Safira - Tatuapé
-    Safira - Engenheiro Goulart
-    Safira - USP Leste
-    Safira - Comendador Ermelino
-    Safira - São Miguel Paulista
-    Safira - Jardim Helena-Vila Mara
-    Safira - Itaim Paulista
-    Safira - Jardim Romano
-    Safira - Engenheiro Manoel Feio
-    Safira - Itaquaquecetuba
-    Safira - Aracaré
-    Safira - Calmon Viana
 
 Linha 13 - Jade
-    Jade - Engenheiro Goulart
-    Jade - Guarulhos-Cecap
-    Jade - Aeroporto-Guarulhos
 
 Linha 15 - Prata
-    Prata - Vila Prudente
-    Prata - Oratório
-    Prata - São Lucas
-    Prata - Camilo Haddad
-    Prata - Vila Tolstói
-    Prata - Vila União
-    Prata - Jardim Planalto 
-    Prata - Sapopemba
-    Prata - Fazenda da Juta
-    Prata - São Mateus
-    Prata - Jardim Colonial
 */
